@@ -1,0 +1,15 @@
+C:\Users\sunjs\OneDrive\Рабочий стол\ПРОЕКТЫ\ДЗ1(группы)\bin\Debug\net6.0\ДЗ1(группы).exe
+C:\Users\sunjs\OneDrive\Рабочий стол\ПРОЕКТЫ\ДЗ1(группы)\bin\Debug\net6.0\ДЗ1(группы).deps.json
+C:\Users\sunjs\OneDrive\Рабочий стол\ПРОЕКТЫ\ДЗ1(группы)\bin\Debug\net6.0\ДЗ1(группы).runtimeconfig.json
+C:\Users\sunjs\OneDrive\Рабочий стол\ПРОЕКТЫ\ДЗ1(группы)\bin\Debug\net6.0\ДЗ1(группы).dll
+C:\Users\sunjs\OneDrive\Рабочий стол\ПРОЕКТЫ\ДЗ1(группы)\bin\Debug\net6.0\ДЗ1(группы).pdb
+C:\Users\sunjs\OneDrive\Рабочий стол\ПРОЕКТЫ\ДЗ1(группы)\obj\Debug\net6.0\ДЗ1(группы).csproj.AssemblyReference.cache
+C:\Users\sunjs\OneDrive\Рабочий стол\ПРОЕКТЫ\ДЗ1(группы)\obj\Debug\net6.0\ДЗ1(группы).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunjs\OneDrive\Рабочий стол\ПРОЕКТЫ\ДЗ1(группы)\obj\Debug\net6.0\ДЗ1(группы).AssemblyInfoInputs.cache
+C:\Users\sunjs\OneDrive\Рабочий стол\ПРОЕКТЫ\ДЗ1(группы)\obj\Debug\net6.0\ДЗ1(группы).AssemblyInfo.cs
+C:\Users\sunjs\OneDrive\Рабочий стол\ПРОЕКТЫ\ДЗ1(группы)\obj\Debug\net6.0\ДЗ1(группы).csproj.CoreCompileInputs.cache
+C:\Users\sunjs\OneDrive\Рабочий стол\ПРОЕКТЫ\ДЗ1(группы)\obj\Debug\net6.0\ДЗ1(группы).dll
+C:\Users\sunjs\OneDrive\Рабочий стол\ПРОЕКТЫ\ДЗ1(группы)\obj\Debug\net6.0\refint\ДЗ1(группы).dll
+C:\Users\sunjs\OneDrive\Рабочий стол\ПРОЕКТЫ\ДЗ1(группы)\obj\Debug\net6.0\ДЗ1(группы).pdb
+C:\Users\sunjs\OneDrive\Рабочий стол\ПРОЕКТЫ\ДЗ1(группы)\obj\Debug\net6.0\ДЗ1(группы).genruntimeconfig.cache
+C:\Users\sunjs\OneDrive\Рабочий стол\ПРОЕКТЫ\ДЗ1(группы)\obj\Debug\net6.0\ref\ДЗ1(группы).dll
